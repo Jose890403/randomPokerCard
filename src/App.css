@@ -1,0 +1,55 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  justify-content: center;
+  background-image: url(https://us.123rf.com/450wm/eshma/eshma1706/eshma170600003/80267977-green-felt-and-playing-chips-abstract-background-poker-casino-and-gambling-theme.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container{
+  display: flex;
+  border: 1px solid black;
+  flex-direction: column;
+  height: 200px;
+  gap: 2rem;
+  margin-bottom: 200px;
+
+}
+.card{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  max-width: 200px;
+  min-width: 200px;
+  
+  align-items: center;
+  justify-content: center;
+  background-color: #ffff;
+}
+img{
+  width: 60px;
+  height: 60px;
+}
+.derecha{
+  margin-left:70%;
+}
+.izquierda{
+  margin-right: 65%;
+}
+
+.num-grande{
+  font-size: 150px;
+  margin: 0px;
+  padding: 0px;
+  color: black;
+  
+}
+.btn-generador{
+justify-content: center;
+}
+.btn-generador:hover{
+border: 1px solid #000000;
+background-color: #ffff;
+color: #000000;
+transition: all ease-in-out;
+}
