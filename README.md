@@ -57,4 +57,4 @@
 
 ## ✨ Captura de pantalla
 
-![Captura de la app](./assets/captura.png)
+![Captura de la app](https://imgur.com/a/rDfZAz3)
